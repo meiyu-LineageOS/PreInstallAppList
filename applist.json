@@ -1,0 +1,12 @@
+[
+    {
+        "name": "test_app_1",
+        "download_url": "https://test_app.com/download/test_app_1.apk",
+        "sha": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8g9h0"
+    },
+    {
+        "name": "test_app_2",
+        "download_url": "https://test_app.com/download/test_app_2.apk",
+        "sha": "d3f8b2c0e4f5a6c7b8e9f0a1b2c3d4e5f6a7b8c9"
+    }
+]

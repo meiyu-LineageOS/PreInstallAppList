@@ -1,10 +1,5 @@
 [
     {
-        "name": "MT_Manager",
-        "download_url": "https://pan.mt2.cn/mt/MT2.18.5.apk",
-        "sha": "e031efa26f4c2cd53008fdcc9a6f471b3ba771e3"
-    },
-    {
         "name": "apple_music",
         "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/apple_music.apk",
         "sha": "0980850a8b45962742012011006ac8e653a68885"
@@ -28,11 +23,6 @@
         "name": "haibei_music",
         "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/haibei_music.apk",
         "sha": "ea71db1a1788b81e78ad8f652ae1a3d0a20b2763"
-    },
-    {
-        "name": "kindle",
-        "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/kindle.apk",
-        "sha": "a5c68fa59e7877e75f649a3ee7c8e7977c8842d2"
     },
     {
         "name": "pandora",

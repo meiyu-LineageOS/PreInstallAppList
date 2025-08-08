@@ -1,5 +1,10 @@
 [
     {
+        "name": "MT Manager",
+        "download_url": "https://pan.mt2.cn/mt/MT2.18.5.apk",
+        "sha": "e031efa26f4c2cd53008fdcc9a6f471b3ba771e3"
+    },
+    {
         "name": "amazon_music",
         "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/amazon_music.apk",
         "sha": "eff0501b9d7cc24b854c4e34334efe28de9f0e3a"

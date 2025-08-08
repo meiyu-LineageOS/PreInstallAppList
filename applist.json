@@ -45,11 +45,6 @@
         "sha": "a84deb15c0e97c2a3e73b9c124e0b9e933d63958"
     },
     {
-        "name": "tunein-radio",
-        "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/tunein-radio.apk",
-        "sha": "efcc7c507e7cdda09fe568bbc012810d1fb087a5"
-    },
-    {
         "name": "twitter",
         "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/twitter.apk",
         "sha": "48b0a4076f67208fbbe2a3fc6f9cde2582d7fcdc"

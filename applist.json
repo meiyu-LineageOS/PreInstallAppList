@@ -1,12 +1,87 @@
 [
     {
-        "name": "MT Manager",
-        "download_url": "https://pan.mt2.cn/mt/MT2.18.5.apk",
-        "sha": "e031efa26f4c2cd53008fdcc9a6f471b3ba771e3"
+        "name": "amazon_music",
+        "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/amazon_music.apk",
+        "sha": "eff0501b9d7cc24b854c4e34334efe28de9f0e3a"
     },
     {
-        "name": "bilibili",
-        "download_url": "https://dl.hdslb.com/mobile/latest/iBiliPlayer-bili.apk",
-        "sha": "bbf6aad177f1c4a68e263eb380388f26e6a24ab0"
+        "name": "apple_music",
+        "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/apple_music.apk",
+        "sha": "0980850a8b45962742012011006ac8e653a68885"
+    },
+    {
+        "name": "audible",
+        "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/audible.apk",
+        "sha": "a52f1eceb85896a52a00624eecf253a37d3fd31c"
+    },
+    {
+        "name": "deezer",
+        "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/deezer.apk",
+        "sha": "158939e0b55693b9852e04bb7f14b2b08d2470b6"
+    },
+    {
+        "name": "facebook",
+        "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/facebook.apk",
+        "sha": "24ef6637411987209869640eb0cd3e69114c59c5"
+    },
+    {
+        "name": "haibei_music",
+        "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/haibei_music.apk",
+        "sha": "ea71db1a1788b81e78ad8f652ae1a3d0a20b2763"
+    },
+    {
+        "name": "kindle",
+        "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/kindle.apk",
+        "sha": "a5c68fa59e7877e75f649a3ee7c8e7977c8842d2"
+    },
+    {
+        "name": "pandora",
+        "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/pandora.apk",
+        "sha": "8881d8fef9fca38bb184834f35bce103af57c2f4"
+    },
+    {
+        "name": "spotify",
+        "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/spotify.apk",
+        "sha": "e0068da2fa51d3f2cd969e3cd6104ca77dbad7a1"
+    },
+    {
+        "name": "spotify_kids",
+        "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/spotify_kids.apk",
+        "sha": "08961961debc4be824f9fdcf7e2a02704a34aa42"
+    },
+    {
+        "name": "tidal",
+        "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/tidal.apk",
+        "sha": "a84deb15c0e97c2a3e73b9c124e0b9e933d63958"
+    },
+    {
+        "name": "tunein-radio",
+        "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/tunein-radio.apk",
+        "sha": "efcc7c507e7cdda09fe568bbc012810d1fb087a5"
+    },
+    {
+        "name": "twitter",
+        "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/twitter.apk",
+        "sha": "48b0a4076f67208fbbe2a3fc6f9cde2582d7fcdc"
+    },
+    {
+        "name": "via",
+        "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/via.apk",
+        "sha": "d8f0fb03a96743b879e098e0a1216dd7de676122"
+    },
+    {
+        "name": "youtube",
+        "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/youtube.apk",
+        "sha": "058d8e272de281872274452ab923865899388c32"
+    },
+    {
+        "name": "youtube_music",
+        "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/yt_music.apk",
+        "sha": "9f7af96055520d687d541dfcc97f9240b5d3d189"
+    },
+    {
+        "name": "youtube_kids",
+        "download_url": "https://download.lynnrin.moe/Private/meiyu/MP4/preinstall/ytkids.apk",
+        "sha": "4bfc25b192afae7ae6110cf7803bdf45fccb5be5"
     }
 ]
